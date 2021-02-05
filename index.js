@@ -1,9 +1,4 @@
-// in the container lets add a h1 with hello
-const heading = document.createElement("h1");
 
-heading.innerHTML = "hello";
-
-document.querySelector("#container").appendChild(heading);
 
 // Object factory: product
 
