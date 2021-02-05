@@ -2,7 +2,7 @@
 
 // Object factory: product
 
-function Product(name, price, quantity) {
+/* function Product(name, price, quantity) {
   this.name = name;
   this.price = price;
   this.quantity = quantity;
@@ -39,3 +39,4 @@ const listProducts = [bagPack,shoes, tShirt, bagPackTwo, shoesTwo, tShirtTwo, ba
 
 // map
 listProducts.forEach(prod => (prod.display()))
+ */
